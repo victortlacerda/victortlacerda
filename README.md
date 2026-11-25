@@ -41,7 +41,7 @@ Minha atuação principal é em **geotecnia urbana**: fundações e contenções
 |---|---|---|
 | [Cortina e muro](https://github.com/victortlacerda/cortina-e-muro) | Cortina em balanço e muro de arrimo | [abrir](https://victortlacerda.github.io/cortina-e-muro/) |
 
-## 🐍 Modelagem numérica com Python
+## 🐍 Modelagem numérica
 
 | Projeto | O que faz |
 |---|---|
