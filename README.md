@@ -2,7 +2,7 @@
 
 **Engenheiro geotécnico** que transforma cálculos de projeto, ensaios de laboratório e rotinas de obra em aplicativos web e automações em Python.
 
-Minha atuação principal é em **geotecnia urbana**: fundações e contenções de edifícios de alto padrão e de empreendimentos do Minha Casa Minha Vida. Também prestei serviço em obras de saneamento, pontes e linhas de transmissão.
+Minha atuação principal é em **geotecnia urbana**: fundações e contenções de edifícios de alto padrão e de empreendimentos do Minha Casa Minha Vida. Também atuei em **mineração e barragens** e prestei serviço em obras de saneamento, pontes e linhas de transmissão.
 
 **Ferramentas:** Python · JavaScript / TypeScript · HTML / CSS · Excel · IA aplicada à engenharia · PLAXIS 3D · GeoStudio · FLAC3D · Slide2
 
