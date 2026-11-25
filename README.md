@@ -1,8 +1,14 @@
-# Olá! Eu sou o Victor 👋
+# Victor Tadeu Lacerda
 
-**Engenheiro geotécnico** que transforma cálculos de projeto, ensaios de laboratório e rotinas de obra em aplicativos web e automações em Python.
+**Engenheiro Civil | Geotecnia, Fundações e Contenções**
 
-Minha atuação principal é em **geotecnia urbana**: fundações e contenções de edifícios de alto padrão e de empreendimentos do MCMV. Também atuei em mineração e barragens e prestei serviço em obras de saneamento, pontes e linhas de transmissão.
+Belo Horizonte – MG · CREA-MG ativo · [victortlacerda@gmail.com](mailto:victortlacerda@gmail.com) · [LinkedIn](https://www.linkedin.com/in/victor-tadeu-lacerda)
+
+## Resumo profissional
+
+Engenheiro Civil formado pela UFMG, com experiência em projetos de fundações e contenções, interpretação de ensaios de campo e de laboratório e acompanhamento de obras. Desenvolve aplicativos web e automações em Python, com apoio de IA, para cálculos de projeto, ensaios e rotinas de obra.
+
+Atuação principal em **geotecnia urbana**: fundações e contenções de edifícios de alto padrão e de empreendimentos do Minha Casa Minha Vida. Também atuou em **mineração e barragens** e prestou serviço em obras de saneamento, pontes e linhas de transmissão.
 
 **Ferramentas:** Python · JavaScript / TypeScript · HTML / CSS · Excel · IA aplicada à engenharia · PLAXIS 3D · GeoStudio · FLAC3D · Slide2
 
